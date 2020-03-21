@@ -1,0 +1,61 @@
+/*font-family: 'Roboto', sans-serif;
+font-family: 'IBM Plex Serif', serif;*/
+
+section {
+    width: 50%;
+    margin: auto;
+}
+
+h1 {
+    width: 80%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    font-weight: 100;
+    margin: 10% 0 0;
+}
+
+span {
+    margin-right: 4px;
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 0.85em;
+    color: #808080;
+}
+
+article {
+    width: 90%;
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 1em;
+    margin: 35px 0 30px;
+    line-height: 1.7em;
+}
+
+button {
+    width: 180px;
+    border: none;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 15px 32px;
+    margin-right: 10px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.red-button {
+    background-color: #df4242;
+    color: white;
+}
+
+.red-button:hover {
+    background-color: #b43636;
+}
+
+.white-button {
+    background-color: white;
+    color: #df4242;
+    border: 1px solid #df4242;
+}
+
+.white-button:hover {
+    background-color: rgb(243, 242, 242);
+}
